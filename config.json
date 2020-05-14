@@ -1,0 +1,9 @@
+{
+  "username": "",
+  "password": "",
+  "backup_dir": "",
+  "export_formats": "fit",
+  "ignore_errors": false,
+  "max_retries": 3,
+  "download_from_date": ""
+}
